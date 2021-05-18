@@ -1,5 +1,5 @@
 {
-  "name": "webpack-js",
+  "name": "js-portfolio",
   "version": "1.0.0",
   "description": "A minimal portfolio with Vanilla JavaScript",
   "main": "index.js",
