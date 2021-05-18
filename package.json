@@ -1,5 +1,5 @@
 {
-  "name": "js-portfolio",
+  "name": "webpack-js",
   "version": "1.0.0",
   "description": "A minimal portfolio with Vanilla JavaScript",
   "main": "index.js",
@@ -10,8 +10,8 @@
     "build:watch": "webpack --watch --config webpack.config.js "
   },
   "repository": {
-    "type": ,
-    "url": 
+    "type": "git",
+    "url": "https://github.com/kevin129412/portfolio"
   },
   "keywords": [
     "javascript",
@@ -19,11 +19,11 @@
     "css"
   ],
   "author": "kevin",
-  "license": ,
+  "license": "none",
   "bugs": {
-    "url": 
+    "url": "https://github.com/kevin129412/portfolio"
   },
-  "homepage": ,
+  "homepage": "https://github.com/kevin129412/portfolio" ,
   "devDependencies": {
     "@babel/core": "^7.14.0",
     "@babel/plugin-transform-runtime": "^7.13.15",
